@@ -73,8 +73,8 @@ To use this method in your own project:
 
 ## Authors
 
-- ** @gauravsinghiitb 22B0668**
-- **@sg0701 22B0667**
+- **[@gauravsinghiitb](https://github.com/gauravsinghiitb)** (22B0668)
+- **[@sg0701](https://github.com/sg0701)** (22B0667)
 
 ## Acknowledgments
 - OpenCV  
