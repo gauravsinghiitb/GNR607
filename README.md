@@ -71,20 +71,15 @@ To use this method in your own project:
 3. Call the `fuse_images()` function to generate the fused image.
 4. Display or save the resulting fused image.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Authors
 
-- **22B0668**
-- **22B0667**
+- ** @gauravsinghiitb 22B0668**
+- **@sg0701 22B0667**
 
 ## Acknowledgments
-
-Thanks to the open-source community for their contributions to the libraries used in this project:  
 - OpenCV  
 - NumPy  
-- Matplotlib  
+- Matplotlib
+- QGIS
+- usgs eartg explorer  
 
-For any questions or contributions, feel free to open an issue or submit a pull request!
