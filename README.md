@@ -1,5 +1,6 @@
 # PAN Fusion: Fusing Multispectral and Panchromatic Images Using the RGB-HSI Method
-![Uploading image.png…]()
+
+![download (93)](https://github.com/user-attachments/assets/6950f291-cab7-4970-a8f9-52f843ae1a8e)
 
 
 ## Problem
