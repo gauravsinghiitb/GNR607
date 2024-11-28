@@ -1,4 +1,6 @@
 # PAN Fusion: Fusing Multispectral and Panchromatic Images Using the RGB-HSI Method
+![Uploading image.png…]()
+
 
 ## Problem
 Multispectral images often have lower spatial resolution compared to panchromatic (PAN) images. This discrepancy limits the usability of multispectral images in high-precision applications, where spatial resolution is critical. 
