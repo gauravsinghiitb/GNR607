@@ -81,5 +81,5 @@ To use this method in your own project:
 - NumPy  
 - Matplotlib
 - QGIS
-- usgs eartg explorer  
+- usgs earth explorer  
 
